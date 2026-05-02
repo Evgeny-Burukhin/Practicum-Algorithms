@@ -1,0 +1,1 @@
+<img src="https://i.pinimg.com/736x/f0/a1/65/f0a165f422d1f6260e3db791eebe5f6c.jpg" alt="Котик" width="300">
